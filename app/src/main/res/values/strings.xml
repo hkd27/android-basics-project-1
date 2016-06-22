@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">androidBasicsNanoDegree-Project-1</string>
+    <string name="google_is_an_american_multinational_technology_company_specializing_in_internet_related_services_and_products_these_include_online_advertising_technologies_search_cloud_computing_and_software">Bogus is an American multinational technology company specializing in Internet-related services and products. These include online advertising technologies, search, cloud computing, and software.</string>
+    <string name="phone_no_1_111_111_1111">Phone No. +1-111-111-1111</string>
+    <string name="headquarters_mountain_view_ca">Headquarters: Mountain View, CA</string>
+    <string name="www_bogus_fake">www.bogus.fake</string>
+    <string name="bogus_inc">Bogus Inc.</string>
+    <string name="place_holder">place holder</string>
+</resources>
